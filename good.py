@@ -1,0 +1,15 @@
+'''a=9,8,7
+b=4,5,6
+print(sum(a))
+print(len(b))
+print(min(a))
+print(max(b))
+print(a.count(2))
+print(sorted(b))
+print(a[::1])
+'''
+c=12,3,44
+d=8,5,33
+print(c+d)
+print(c*2)
+d.append(20)
